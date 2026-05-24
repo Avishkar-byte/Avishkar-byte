@@ -78,20 +78,7 @@ I engineer autonomous navigation stacks, on-device perception models, and multi-
 
 <br/>
 
-<div align="center">
-<table>
-<tr>
-<td valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avishkar-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=818cf8&text_color=f1f5f9" alt="GitHub Stats"/>
-</td>
-<td valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avishkar-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=f1f5f9" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-</div>
 
-<br/>
 
 <table>
 <tr>
@@ -120,7 +107,7 @@ I engineer autonomous navigation stacks, on-device perception models, and multi-
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-avishkar--jaiswal.vercel.app-0d0d0d?style=flat-square&logo=vercel&logoColor=6366f1)](https://avishkar-jaiswal.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Avishkar--byte-0d0d0d?style=flat-square&logo=github&logoColor=6366f1)](https://github.com/Avishkar-byte)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avishkarjaiswal-0d0d0d?style=flat-square&logo=linkedin&logoColor=6366f1)](https://linkedin.com/in/avishkarjaiswal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avishkarjaiswal-0d0d0d?style=flat-square&logo=linkedin&logoColor=6366f1)](https://www.linkedin.com/in/avishkarjaiswal)
 [![Email](https://img.shields.io/badge/Email-avishkarjaiswal.456@gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=6366f1)](mailto:avishkarjaiswal.456@gmail.com)
 
 </div>
