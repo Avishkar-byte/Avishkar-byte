@@ -8,9 +8,9 @@
 
 B.Tech Electronics & Computer Engineering student at VIT Chennai, building at the intersection of autonomous systems, edge AI, and generative engineering platforms.
 
-I engineer real-time perception pipelines for GPS-denied environments, deploy quantized CV models on resource-constrained edge hardware, and design end-to-end LLM systems that go from natural language input to physics-simulated, deployable artifacts. My work spans NVIDIA Jetson-based VIO stacks, on-device assistive wearables, medical device digital twin platforms, and full-stack AI web applications — each built to function under real hardware constraints and production latency requirements.
+I engineer real-time perception pipelines for GPS-denied environments, deploy quantized CV models on resource-constrained edge hardware, and design end-to-end LLM systems that go from natural language input to physics-simulated, deployable artifacts. My work spans NVIDIA Jetson-based VIO stacks, on-device assistive wearables, medical device digital twin platforms, and full-stack AI web applications - each built to function under real hardware constraints and production latency requirements.
 
-10 Utility Patents · CVR 2025 Published · SIH '25 National Finalist · Tata Elxsi Top 60 / 47K+ (PPI) · LTTS TECHgium® Top 7
+9 Utility Patents · 1 Design Patent · CVR 2025 Published · SIH '25 National Finalist · Tata Elxsi Top 60 / 47K+ · LTTS TECHgium® Top 7
 
 <table width="100%">
 <tr>
@@ -81,30 +81,63 @@ MERN stack web application development
 
 <br/>
 
-<div align="center">
-
-![LTTS TECHgium Top 7](https://img.shields.io/badge/LTTS_TECHgium®_Top_7-6366f1?style=flat-square&logoColor=white)
-![Tata Elxsi Top 60](https://img.shields.io/badge/Tata_Elxsi_Top_60_%2F_47K%2B_(PPI)-0ea5e9?style=flat-square&logoColor=white)
-![SIH 2025](https://img.shields.io/badge/SIH_2025_National_Finalist-10b981?style=flat-square&logoColor=white)
-![CVR 2025](https://img.shields.io/badge/CVR_2025_Published-f59e0b?style=flat-square&logoColor=white)
-![Patents](https://img.shields.io/badge/10_Utility_Patents-8b5cf6?style=flat-square&logoColor=white)
-
-</div>
-
-<br/>
+<h3 align="center">Recognition</h3>
 
 <table width="100%" align="center">
 <tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Avishkar-byte&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=818cf8&text_color=f1f5f9&ring_color=6366f1" width="100%"/>
+<td width="50%" valign="top">
+
+![LTTS](https://img.shields.io/badge/LTTS_TECHgium®_-_Top_7_Finalist-6366f1?style=flat-square&logoColor=white)
+![Tata Elxsi](https://img.shields.io/badge/Tata_Elxsi_Teleport_S3_-_Top_60_%2F_47K%2B-0ea5e9?style=flat-square&logoColor=white)
+![SIH](https://img.shields.io/badge/SIH_2025_-_National_Finalist-10b981?style=flat-square&logoColor=white)
+
 </td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishkar-byte&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=f1f5f9&langs_count=6" width="100%"/>
+<td width="50%" valign="top">
+
+![Schrodinger](https://img.shields.io/badge/Schrödinger's_Cat_Hackathon_(SRM_AP)_-_1st_Runner--Up_·_Best_Hardware_Award-f59e0b?style=flat-square&logoColor=white)
+![Ecodeathon](https://img.shields.io/badge/E--Codeathon_2026_(VIT_Chennai)_-_Winner-8b5cf6?style=flat-square&logoColor=white)
+![Ingenium](https://img.shields.io/badge/Ingenium_Hardware_Hackathon_(NIT_Trichy)_-_Winner-ec4899?style=flat-square&logoColor=white)
+
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=Avishkar-byte&theme=tokyonight&hide_border=true&background=0d0d0d&ring=6366f1&fire=818cf8&currStreakLabel=f1f5f9" width="100%" />
+<br/>
+
+<h3 align="center">Research & Intellectual Property</h3>
+
+<table width="100%" align="center">
+<tr>
+<td width="33%" align="center" valign="top">
+
+**9 Utility Patents**
+Published across AI-driven systems,
+computer vision, and embedded technologies
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**1 Design Patent**
+Published in robotics and
+assistive hardware systems
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**CVR 2025 - NIT Goa**
+Research paper presented & published at the
+5th International Conference on
+Computer Vision and Robotics
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1378--1202-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1378-1202)
+
+</div>
 
 <br/>
 
@@ -156,6 +189,7 @@ Built and enhanced production MERN stack web applications · Designed RESTful AP
 [![Portfolio](https://img.shields.io/badge/Portfolio-avishkar--jaiswal.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://avishkar-jaiswal.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Avishkar--byte-1e1e2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Avishkar-byte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avishkarjaiswal-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avishkarjaiswal)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1378--1202-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1378-1202)
 [![Email](https://img.shields.io/badge/Email-avishkarjaiswal.456@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avishkarjaiswal.456@gmail.com)
 
 </div>
