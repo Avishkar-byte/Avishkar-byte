@@ -11,7 +11,7 @@ I engineer autonomous navigation stacks, on-device perception models, and multi-
 <table>
 <tr>
 <td width="33%" valign="top">
-<h4 align="center">🤖 Robotics & Perception</h4>
+<h4 align="center">Robotics & Perception</h4>
 <ul>
 <li>VIO pipelines & state estimation</li>
 <li>ROS2 driver architecture</li>
@@ -21,7 +21,7 @@ I engineer autonomous navigation stacks, on-device perception models, and multi-
 </ul>
 </td>
 <td width="33%" valign="top">
-<h4 align="center">🧠 AI & LLM Systems</h4>
+<h4 align="center">AI & LLM Systems</h4>
 <ul>
 <li>LLM requirement parsing & RAG</li>
 <li>Agentic workflows & pipelines</li>
@@ -31,7 +31,7 @@ I engineer autonomous navigation stacks, on-device perception models, and multi-
 </ul>
 </td>
 <td width="33%" valign="top">
-<h4 align="center">🌐 Full-Stack & Systems</h4>
+<h4 align="center">Full-Stack & Systems</h4>
 <ul>
 <li>React 19 / Next.js 14</li>
 <li>FastAPI & Node.js backends</li>
@@ -82,15 +82,13 @@ I engineer autonomous navigation stacks, on-device perception models, and multi-
 <table>
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Avishkar-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=818cf8&text_color=f1f5f9" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avishkar-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=818cf8&text_color=f1f5f9" alt="GitHub Stats"/>
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishkar-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=f1f5f9" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avishkar-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=f1f5f9" alt="Top Languages"/>
 </td>
 </tr>
 </table>
-
-<img src="https://streak-stats.demolab.com?user=Avishkar-byte&theme=tokyonight&hide_border=true&background=0d0d0d&ring=6366f1&fire=818cf8&currStreakLabel=f1f5f9" alt="GitHub Streak" width="100%"/>
 </div>
 
 <br/>
