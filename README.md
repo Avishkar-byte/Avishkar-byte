@@ -6,61 +6,76 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building+systems+at+the+edge+of+hardware+and+AI;Visual-Inertial+Odometry+%7C+GPS-Denied+Navigation;LLM+Pipelines+%7C+Digital+Twins+%7C+Physics+Simulation;Real-time+CV+%7C+Embedded+Inference+%7C+ROS2" alt="Typing Animation"/>
 </div>
 
-I engineer autonomous navigation stacks, on-device perception models, and multi-physics LLM platforms across the hardware-software boundary. By deploying `VINS-Fusion` visual-inertial pipelines on NVIDIA Jetson architectures and quantizing complex computer vision networks for real-time inference on edge microcontrollers, I specialize in systems that maintain high availability under severe compute constraints. My technical work includes 10 published utility patents, an accepted paper at CVR 2025, and high-performance showings at the SIH 2025 National Finals, Tata Elxsi Top 60, and LTTS TECHgium Top 7. Ultimately, my focus remains rooted in designing production-ready systems that function reliably when exposed to real-world hardware limitations and latency requirements.
+B.Tech Electronics & Computer Engineering student at VIT Chennai, building at the intersection of autonomous systems, edge AI, and generative engineering platforms.
 
-<table>
+I engineer real-time perception pipelines for GPS-denied environments, deploy quantized CV models on resource-constrained edge hardware, and design end-to-end LLM systems that go from natural language input to physics-simulated, deployable artifacts. My work spans NVIDIA Jetson-based VIO stacks, on-device assistive wearables, medical device digital twin platforms, and full-stack AI web applications — each built to function under real hardware constraints and production latency requirements.
+
+10 Utility Patents · CVR 2025 Published · SIH '25 National Finalist · Tata Elxsi Top 60 / 47K+ (PPI) · LTTS TECHgium® Top 7
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
-<h4 align="center">Robotics & Perception</h4>
-<ul>
-<li>VIO pipelines & state estimation</li>
-<li>ROS2 driver architecture</li>
-<li>EKF sensor fusion</li>
-<li>SLAM & loop closure detection</li>
-<li>Edge deployment on Jetson/RPi</li>
-</ul>
+<td width="33%" valign="top" align="center">
+
+**Robotics & Perception**
+
+Visual-Inertial Odometry & state estimation
+ROS2 architecture & driver decoupling
+EKF sensor fusion at production Hz rates
+SLAM, loop closure & map resolution tuning
+Stereo-inertial calibration (D455 / RealSense)
+Edge deployment on Jetson Orin & Raspberry Pi
+Obstacle avoidance & reactive navigation
+
 </td>
-<td width="33%" valign="top">
-<h4 align="center">AI & LLM Systems</h4>
-<ul>
-<li>LLM requirement parsing & RAG</li>
-<li>Agentic workflows & pipelines</li>
-<li>Surrogate ML modeling</li>
-<li>Multi-physics simulation</li>
-<li>Groq streaming inference</li>
-</ul>
+<td width="33%" valign="top" align="center">
+
+**AI & LLM Systems**
+
+LLM requirement parsing & structured output
+RAG pipelines & agentic workflow design
+Groq SDK streaming inference integration
+Surrogate ML modeling on simulation telemetry
+Multi-physics solver orchestration (DAG-based)
+On-device CV: YOLO, MediaPipe, pose estimation
+Model quantization for real-time edge inference
+
 </td>
-<td width="33%" valign="top">
-<h4 align="center">Full-Stack & Systems</h4>
-<ul>
-<li>React 19 / Next.js 14</li>
-<li>FastAPI & Node.js backends</li>
-<li>Docker containerization</li>
-<li>Real-time streaming APIs</li>
-<li>3D web rendering via WebGL</li>
-</ul>
+<td width="33%" valign="top" align="center">
+
+**Full-Stack & Systems**
+
+React 19 / Next.js 14 production applications
+FastAPI & Express.js backend architecture
+Real-time streaming APIs (chunked HTTP transfer)
+Docker containerization & split deployment
+Supabase (PostgreSQL) & in-memory session design
+3D web rendering: Spline, Three.js, WebGL, Canvas
+MERN stack web application development
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,raspberrypi,arduino,linux,ros&theme=dark)
+![Python](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,raspberrypi,arduino,linux,c,cpp&theme=dark)
 
 <br/>
 
-![React](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,typescript,docker,supabase,vite&theme=dark)
+![React](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,typescript,docker,supabase,mongodb,vite&theme=dark)
 
 <br/>
 
-![Groq](https://img.shields.io/badge/Groq-1e1e2e?style=flat-square&logoColor=6366f1)
+![Groq](https://img.shields.io/badge/Groq-1e1e2e?style=flat-square&logo=groq&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-1e1e2e?style=flat-square&logoColor=6366f1)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-1e1e2e?style=flat-square&logoColor=6366f1)
+![ROS2](https://img.shields.io/badge/ROS2-1e1e2e?style=flat-square&logo=ros&logoColor=white)
 ![SLAM](https://img.shields.io/badge/SLAM-1e1e2e?style=flat-square&logoColor=6366f1)
-![EKF](https://img.shields.io/badge/EKF-1e1e2e?style=flat-square&logoColor=6366f1)
-![VIO](https://img.shields.io/badge/VIO-1e1e2e?style=flat-square&logoColor=6366f1)
+![EKF](https://img.shields.io/badge/EKF_Sensor_Fusion-1e1e2e?style=flat-square&logoColor=6366f1)
+![VIO](https://img.shields.io/badge/Visual--Inertial_Odometry-1e1e2e?style=flat-square&logoColor=6366f1)
 ![VINS-Fusion](https://img.shields.io/badge/VINS--Fusion-1e1e2e?style=flat-square&logoColor=6366f1)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-1e1e2e?style=flat-square&logoColor=6366f1)
+![RAG](https://img.shields.io/badge/RAG-1e1e2e?style=flat-square&logoColor=6366f1)
 
 </div>
 
@@ -68,46 +83,79 @@ I engineer autonomous navigation stacks, on-device perception models, and multi-
 
 <div align="center">
 
-![LTTS](https://img.shields.io/badge/LTTS_TECHgium®-Top_7-6366f1?style=flat-square)
-![Tata](https://img.shields.io/badge/Tata_Elxsi_Teleport_S3-Top_60_%2F_47K+-0ea5e9?style=flat-square)
-![SIH](https://img.shields.io/badge/SIH_2025-National_Finalist-10b981?style=flat-square)
-![CVR](https://img.shields.io/badge/CVR_2025-Published-f59e0b?style=flat-square)
-![Patents](https://img.shields.io/badge/10_Utility_Patents-Published-8b5cf6?style=flat-square)
+![LTTS TECHgium Top 7](https://img.shields.io/badge/LTTS_TECHgium®_Top_7-6366f1?style=flat-square&logoColor=white)
+![Tata Elxsi Top 60](https://img.shields.io/badge/Tata_Elxsi_Top_60_%2F_47K%2B_(PPI)-0ea5e9?style=flat-square&logoColor=white)
+![SIH 2025](https://img.shields.io/badge/SIH_2025_National_Finalist-10b981?style=flat-square&logoColor=white)
+![CVR 2025](https://img.shields.io/badge/CVR_2025_Published-f59e0b?style=flat-square&logoColor=white)
+![Patents](https://img.shields.io/badge/10_Utility_Patents-8b5cf6?style=flat-square&logoColor=white)
 
 </div>
 
 <br/>
 
+<table width="100%" align="center">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Avishkar-byte&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=818cf8&text_color=f1f5f9&ring_color=6366f1" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishkar-byte&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=f1f5f9&langs_count=6" width="100%"/>
+</td>
+</tr>
+</table>
 
+<img src="https://streak-stats.demolab.com?user=Avishkar-byte&theme=tokyonight&hide_border=true&background=0d0d0d&ring=6366f1&fire=818cf8&currStreakLabel=f1f5f9" width="100%" />
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4 align="center">Building</h4>
-<ul>
-<li>GPS-denied autonomous navigation systems</li>
-<li>On-device assistive AI at the edge</li>
-<li>LLM-powered engineering automation pipelines</li>
-</ul>
+
+**Building**
+- GPS-denied autonomous navigation for UAVs
+- On-device assistive AI systems at the edge
+- LLM-powered engineering automation pipelines
+- Production full-stack AI web applications
+
 </td>
 <td width="50%" valign="top">
-<h4 align="center">Learning</h4>
-<ul>
-<li>MAVLink / PX4 integration for autonomous UAVs</li>
-<li>ONNX model export for cross-platform edge deployment</li>
-<li>WebSocket-based real-time simulation streaming</li>
-</ul>
+
+**Exploring**
+- MAVLink / PX4 pose injection from VIO output
+- ONNX export for cross-platform edge deployment
+- WebSocket-based real-time simulation streaming
+- FDA 21 CFR Part 11 compliance-aware AI design
+
 </td>
 </tr>
 </table>
 
 <br/>
 
+**SpectoV Assistive Technology** · Product Development Intern<br/>
+Python · YOLO · OpenCV · TensorFlow · Raspberry Pi<br/>
+Built production ASL recognition pipeline (12,000+ images, 42 classes) · Deployed real-time CV inference at ~370ms latency via model quantization on Raspberry Pi
+
+---
+
+**Stemtec AI and Robotics** · Robotics & AI Intern<br/>
+ROS2 · Gazebo · SLAM · EKF · Python · C++<br/>
+Built STEMBOT autonomous navigation system · EKF sensor fusion at 15Hz reducing localization error 60% · SLAM at 92% loop closure accuracy · Obstacle avoidance 95% success rate
+
+---
+
+**Algo Technologies Pvt. Ltd.** · Software Developer Intern<br/>
+MongoDB · Express.js · React.js · Node.js<br/>
+Built and enhanced production MERN stack web applications · Designed RESTful API endpoints and reusable React component architecture · Contributed to scalable backend logic and MongoDB schema design
+
+<br/>
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avishkar--jaiswal.vercel.app-0d0d0d?style=flat-square&logo=vercel&logoColor=6366f1)](https://avishkar-jaiswal.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Avishkar--byte-0d0d0d?style=flat-square&logo=github&logoColor=6366f1)](https://github.com/Avishkar-byte)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avishkarjaiswal-0d0d0d?style=flat-square&logo=linkedin&logoColor=6366f1)](https://www.linkedin.com/in/avishkarjaiswal)
-[![Email](https://img.shields.io/badge/Email-avishkarjaiswal.456@gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=6366f1)](mailto:avishkarjaiswal.456@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-avishkar--jaiswal.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://avishkar-jaiswal.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Avishkar--byte-1e1e2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Avishkar-byte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avishkarjaiswal-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avishkarjaiswal)
+[![Email](https://img.shields.io/badge/Email-avishkarjaiswal.456@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avishkarjaiswal.456@gmail.com)
 
 </div>
